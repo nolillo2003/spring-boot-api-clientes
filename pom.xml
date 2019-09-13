@@ -8,10 +8,10 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bolsadeideas.springboot.apirest</groupId>
-	<artifactId>spring-boot-apirest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-apirest</name>
+	<groupId>com.msoler.springboot.apirest.app</groupId>
+	<artifactId>springboot-apirest</artifactId>
+	<version>0.1</version>
+	<name>springboot-apirest</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

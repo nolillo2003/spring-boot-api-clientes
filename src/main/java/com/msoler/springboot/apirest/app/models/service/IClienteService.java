@@ -1,8 +1,8 @@
-package com.bolsadeideas.springboot.apirest.models.service;
+package com.msoler.springboot.apirest.app.models.service;
 
 import java.util.List;
 
-import com.bolsadeideas.springboot.apirest.models.entity.Cliente;
+import com.msoler.springboot.apirest.app.models.entity.Cliente;
 
 public interface IClienteService {
 
